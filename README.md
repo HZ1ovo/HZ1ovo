@@ -1,7 +1,7 @@
-## 你来啦👋
-她暂时不在~随便逛逛吧
+## 你来啦👋      ![](https://komarev.com/ghpvc/?username=HZ1ovo&style=flat&color=ff69b4)
+她暂时不在~随便逛逛吧 
 
-【依依的关键词大赏】
+⭐【依依的关键词大赏】
 
 - 专业岗位：物联网工程出生，but身在曹营心在**测试开发**，再深一层的愿景是ai测试
 - 在研项目：基于Onnxstream轻量化模型的端侧部署
@@ -10,8 +10,12 @@
 - 个人爱好：唱歌jazz网球游泳爬山动漫（~~但我是现充，真的~~），最近想发展的爱好：烹饪,竖笛~   （才发现自己恁能折腾
 
  ---
- 
+ ⭐
+⭐涉猎平台
 
+个人强推笔记软件obsidian！！亮点是链接式笔记，凸显逻辑线，整理思路很方便
+
+[![My Skills](https://skillicons.dev/icons?i=vscode,idea,pycharm,obsidian,instagram,pr&perline=3)](https://skillicons.dev)
 
   
 
