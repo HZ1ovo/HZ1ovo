@@ -1,5 +1,15 @@
-## 你来啦👋      ![](https://komarev.com/ghpvc/?username=HZ1ovo&style=flat&color=ff69b4)
-她暂时不在~随便逛逛吧 
+## 你来啦,她暂时不在~随便逛逛吧 👋      ![](https://komarev.com/ghpvc/?username=HZ1ovo&style=flat&color=ff69b4)
+
+<div id="img" align=center>
+ 
+[![飞书](https://img.shields.io/badge/常更文档-飞书-yellow)](https://g1x6zppgeya.feishu.cn/wiki/Dd8VwSOewiRzd3k7pKAc1GAGnYd)
+[![python](https://img.shields.io/badge/code-Python-red)](https://learn.microsoft.com/zh-cn/cpp/cpp/welcome-back-to-cpp-modern-cpp)
+[![力扣](https://img.shields.io/badge/学习-leetcode-pink)](https://leetcode.cn/u/suspicious-franklinqmu/)
+
+[![](https://img.shields.io/badge/交流-QQ-blue)](https://user.qzone.qq.com/873581061/main)
+![](https://img.shields.io/badge/email-873581061@qq.com-blue)
+
+</div>
 
 ⭐【依依的关键词大赏】
 
@@ -11,15 +21,7 @@
 
  ---
  
-<div id-"img"align-center>
- 
-[![飞书](https://img.shields.io/badge/常更文档-飞书-yellow)](https://g1x6zppgeya.feishu.cn/wiki/Dd8VwSOewiRzd3k7pKAc1GAGnYd)
-[![python](https://img.shields.io/badge/code-Python-red)](https://learn.microsoft.com/zh-cn/cpp/cpp/welcome-back-to-cpp-modern-cpp)
-[![力扣](https://img.shields.io/badge/学习-leetcode-pink)](https://leetcode.cn/u/suspicious-franklinqmu/)
 
-[![](https://img.shields.io/badge/交流-QQ-blue)](https://user.qzone.qq.com/873581061/main)
-![](https://img.shields.io/badge/email-873581061@qq.com-blue)
-</div>
 
 ⭐涉猎平台
 
@@ -28,7 +30,7 @@
 [![My Skills](https://skillicons.dev/icons?i=vscode,idea,pycharm,obsidian,instagram,pr&perline=3)](https://skillicons.dev)
 
   
-
+![HZ1ovo's GitHub stats](https://github-readme-stats.vercel.app/api?username=HZ1ovo&amp;show_icons=true&amp;theme=radical)
  
 <!--
 **HZ1ovo/HZ1ovo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
