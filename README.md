@@ -10,7 +10,17 @@
 - 个人爱好：唱歌jazz网球游泳爬山动漫（~~但我是现充，真的~~），最近想发展的爱好：烹饪,竖笛~   （才发现自己恁能折腾
 
  ---
- ⭐
+ 
+<div id-"img"align-center>
+ 
+[![飞书](https://img.shields.io/badge/常更文档-飞书-yellow)](https://g1x6zppgeya.feishu.cn/wiki/Dd8VwSOewiRzd3k7pKAc1GAGnYd)
+[![python](https://img.shields.io/badge/code-Python-red)](https://learn.microsoft.com/zh-cn/cpp/cpp/welcome-back-to-cpp-modern-cpp)
+[![力扣](https://img.shields.io/badge/学习-leetcode-pink)](https://leetcode.cn/u/suspicious-franklinqmu/)
+
+[![](https://img.shields.io/badge/交流-QQ-blue)](https://user.qzone.qq.com/873581061/main)
+![](https://img.shields.io/badge/email-873581061@qq.com-blue)
+</div>
+
 ⭐涉猎平台
 
 个人强推笔记软件obsidian！！亮点是链接式笔记，凸显逻辑线，整理思路很方便
