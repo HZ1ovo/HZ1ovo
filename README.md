@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&weight=700&size=40&duration=3000&pause=500&color=F7C5EA&background=FFF0FC&center=true&vCenter=true&multiline=true&repeat=false&width=1000&height=140&lines=In+case+i+don't+see+you;Good+afternoon%2Cgood+evening%2Cand+good+night!)](https://git.io/typing-svg)
 
-## 你来啦,她暂时不在~随便逛逛吧 👋      ![](https://komarev.com/ghpvc/?username=HZ1ovo&style=flat&color=ff69b4)
+## Welcome to YiYi's space 👋      ![](https://komarev.com/ghpvc/?username=HZ1ovo&style=flat&color=ff69b4)
 
 <div id="img" align=center>
  
@@ -13,27 +13,28 @@
 
 </div>
 
-## 关键词大赏
+## 🌠Keywords
 
-- 专业岗位：物联网工程出生，but身在曹营心在**测试开发**，再深一层的愿景是ai测试
-- 在研项目：基于Onnxstream轻量化模型的端侧部署
-- 状态：'持续注入热情'+'都别拦着我熬夜~~学习~~'+'求交流'
-- 性格：爱社交的i人
-- 个人爱好：唱歌jazz网球游泳爬山动漫
+- INTRODUCTION:Majoying in **IoT Engineering** ，a soon-to-graduate senior university student, diligently studying.
+- PROJECTing: On-device deployment based on the **Onnxstream** lightweight model.
+- STATUS: 'Passion!' +'Project!'+ 'Don't try to stop me from staying up late ~~studying~~' 
+- PERSENALITY: 'i' but would like to make friends
+- HOBBIES: Singing, jazz, tennis, swimming, hiking, anime...
 <!-- （~~但我是现充，真的~~），最近想发展的爱好：烹饪,竖笛~   （才发现自己恁能折腾-->
  
  ---
  
 
 
-⭐涉猎平台
+## 🌠 Platforms
 
-个人强推笔记软件obsidian！！亮点是链接式笔记，凸显逻辑线，整理思路很方便
+Highly recommend the note-taking app Obsidian!!
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,idea,pycharm,obsidian,instagram,pr&perline=3)](https://skillicons.dev)
 
   
 ![HZ1ovo's GitHub stats](https://github-readme-stats.vercel.app/api?username=HZ1ovo&amp;show_icons=true&amp;theme=radical)
+
 
 
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&weight=700&size=40&duration=3000&pause=500&color=F7C5EA&background=FFF0FC&center=true&vCenter=true&multiline=true&repeat=false&width=1000&height=90&lines=The+ending~)](https://git.io/typing-svg)
