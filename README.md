@@ -39,11 +39,22 @@
 
 Highly recommend the note-taking app Obsidian!!
 
+<div id="img" align=center>
+
 [![My Skills](https://skillicons.dev/icons?i=vscode,idea,pycharm,obsidian,instagram,pr&perline=3)](https://skillicons.dev)
 
+</div>
   
-![HZ1ovo's GitHub stats](https://github-readme-stats.vercel.app/api?username=HZ1ovo&amp;show_icons=true&amp;theme=radical)
+## 🌠 States
 
+<div id="img" align=center>
+
+
+![](https://stats.justsong.cn/api/leetcode?username=分神10秒自罚一杯&cn=true)
+
+![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HZ1ovo)
+
+</div>
 
 ![](https://komarev.com/ghpvc/?username=HZ1ovo&style=flat&color=ff69b4)
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&weight=700&size=40&duration=3000&pause=500&color=F7C5EA&background=FFF0FC&center=true&vCenter=true&multiline=true&repeat=false&width=1000&height=90&lines=The+ending~)](https://git.io/typing-svg)
