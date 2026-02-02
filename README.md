@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&weight=700&size=40&duration=3000&pause=500&color=F7C5EA&background=FFF0FC&center=true&vCenter=true&multiline=true&repeat=false&width=1000&height=140&lines=In+case+i+don't+see+you;Good+afternoon%2Cgood+evening%2Cand+good+night!)](https://git.io/typing-svg)
+
 ## 你来啦,她暂时不在~随便逛逛吧 👋      ![](https://komarev.com/ghpvc/?username=HZ1ovo&style=flat&color=ff69b4)
 
 <div id="img" align=center>
@@ -11,14 +13,15 @@
 
 </div>
 
-⭐【依依的关键词大赏】
+## 关键词大赏
 
 - 专业岗位：物联网工程出生，but身在曹营心在**测试开发**，再深一层的愿景是ai测试
 - 在研项目：基于Onnxstream轻量化模型的端侧部署
 - 状态：'持续注入热情'+'都别拦着我熬夜~~学习~~'+'求交流'
 - 性格：爱社交的i人
-- 个人爱好：唱歌jazz网球游泳爬山动漫（~~但我是现充，真的~~），最近想发展的爱好：烹饪,竖笛~   （才发现自己恁能折腾
-
+- 个人爱好：唱歌jazz网球游泳爬山动漫
+<!-- （~~但我是现充，真的~~），最近想发展的爱好：烹饪,竖笛~   （才发现自己恁能折腾-->
+ 
  ---
  
 
@@ -31,7 +34,9 @@
 
   
 ![HZ1ovo's GitHub stats](https://github-readme-stats.vercel.app/api?username=HZ1ovo&amp;show_icons=true&amp;theme=radical)
- 
+
+
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&weight=700&size=40&duration=3000&pause=500&color=F7C5EA&background=FFF0FC&center=true&vCenter=true&multiline=true&repeat=false&width=1000&height=90&lines=The+ending~)](https://git.io/typing-svg)
 <!--
 **HZ1ovo/HZ1ovo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
