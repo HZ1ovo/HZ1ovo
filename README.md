@@ -49,8 +49,9 @@ Highly recommend the note-taking app Obsidian!!
 
 <div id="img" align=center>
 
+![](https://stats.justsong.cn/api/leetcode?username=suspicious-franklinqmu&cn=true)
 
-![](https://stats.justsong.cn/api/leetcode?username=分神10秒自罚一杯&cn=true)
+![trophy](https://github-profile-trophy.vercel.app/?username=HZ1ovo)
 
 ![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HZ1ovo)
 
