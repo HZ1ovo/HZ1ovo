@@ -1,6 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&weight=700&size=40&duration=3000&pause=500&color=F7C5EA&background=FFF0FC&center=true&vCenter=true&multiline=true&repeat=false&width=1000&height=140&lines=In+case+i+don't+see+you;Good+afternoon%2Cgood+evening%2Cand+good+night!)](https://git.io/typing-svg)
 
-## Welcome to YiYi's space 👋      ![](https://komarev.com/ghpvc/?username=HZ1ovo&style=flat&color=ff69b4)
+<div id="img" align=center>
+
+## Welcome to YiYi's space 👋   
+
+
+</div>
 
 <div id="img" align=center>
  
@@ -36,7 +41,7 @@ Highly recommend the note-taking app Obsidian!!
 ![HZ1ovo's GitHub stats](https://github-readme-stats.vercel.app/api?username=HZ1ovo&amp;show_icons=true&amp;theme=radical)
 
 
-
+![](https://komarev.com/ghpvc/?username=HZ1ovo&style=flat&color=ff69b4)
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&weight=700&size=40&duration=3000&pause=500&color=F7C5EA&background=FFF0FC&center=true&vCenter=true&multiline=true&repeat=false&width=1000&height=90&lines=The+ending~)](https://git.io/typing-svg)
 <!--
 **HZ1ovo/HZ1ovo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
